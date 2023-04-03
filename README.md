@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000px" height="200px" src="name.gif" alt="hello">
+  <img width="700px" height="300px" src="name.gif" alt="hello">
 </p>
 <h1 align="center">Hi 👋, I'm Neeharika Sonowal</h1>
 <h3 align="center">A passionate frontend developer from Assam,India</h3>
