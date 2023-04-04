@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **machine learning project.**
 
-- 🌱 I’m currently learning **python and machine learning techniques.**
+- 🌱 I’m currently learning **java swing packages.**
 
 - 👨‍💻 All of my projects are available at [https://neeharika-sonowal.github.io/Portfolio-Assignment/](https://neeharika-sonowal.github.io/Portfolio-Assignment/)
 
