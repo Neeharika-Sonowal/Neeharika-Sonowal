@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **java swing packages.**
 
-- 👨‍💻 All of my projects are available at [https://neeharika-sonowal.github.io/Portfolio-Assignment/](https://neeharika-sonowal.github.io/Portfolio-Assignment/)
+- 👨‍💻 All of my projects are available at [https://neeharika-sonowal.github.io/](https://neeharika-sonowal.github.io/)
 
 - 📫 How to reach me **shureeix@gmail.com**
 
