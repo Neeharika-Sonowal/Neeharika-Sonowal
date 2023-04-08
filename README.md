@@ -26,7 +26,7 @@
 ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,python,js&theme=dark)
 
 
-<h3 align="left">My Languages:</h3>
+<h3 align="left">My Tools:</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=bash,figma,flask,gcp,git,ai,latex,linux,mysql,nodejs,ps,powershell,pug,qt,svg,tensorflow,vscode,xd&theme=dark&perline=9)
 
